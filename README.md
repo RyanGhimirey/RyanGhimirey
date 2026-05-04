@@ -27,9 +27,6 @@ Deployed Wazuh on Ubuntu, connected a Windows endpoint, and monitored failed log
 **Help Desk Ticketing Lab**  
 Completed 100+ simulated help desk tickets involving printer issues, VPN access, drive mapping, and account support.
 
-**PNN Construction Website**  
-Developed a responsive business website using HTML, CSS, and JavaScript.
-
 ## Currently
 
 Seeking entry-level IT, help desk, cybersecurity, and technical support opportunities.
